@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "169450788828",
-    "firebase_url": "https://geetaxi-9c60a.firebaseio.com",
-    "project_id": "geetaxi-9c60a",
-    "storage_bucket": "geetaxi-9c60a.appspot.com"
+    "project_number": "148766034717",
+    "firebase_url": "https://uberprojectv-default-rtdb.firebaseio.com",
+    "project_id": "uberprojectv",
+    "storage_bucket": "uberprojectv.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:169450788828:android:418ca150b8799c9ef9a119",
+        "mobilesdk_app_id": "1:148766034717:android:210506b3da42392ac4eff4",
         "android_client_info": {
-          "package_name": "com.ufinix.cab_rider"
+          "package_name": "com.ufinix.driverapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "169450788828-u10e9c6dlb73iq7de33l41iaodjd46ug.apps.googleusercontent.com",
+          "client_id": "148766034717-mabcgss119t4sruh1dln0fdgnlonuavn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDQSm22dfjceA0OiQ9XL-0tQ0d7_XZTXpQ"
+          "current_key": "AIzaSyDHP26w04s0tbK-vo5akFJA4HdJeOLrHZk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "169450788828-u10e9c6dlb73iq7de33l41iaodjd46ug.apps.googleusercontent.com",
+              "client_id": "148766034717-mabcgss119t4sruh1dln0fdgnlonuavn.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "169450788828-djkmdaq2voe24hghj5nc05sv5upikbfu.apps.googleusercontent.com",
+              "client_id": "148766034717-la9d80crdni13sl7vtie3ml4l7qrmker.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ufinix.cabRider"
+                "bundle_id": "com.example.uberappv2"
               }
             }
           ]
@@ -44,34 +44,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:169450788828:android:5ecb13adb959cb18f9a119",
+        "mobilesdk_app_id": "1:148766034717:android:f7db686f348fbf88c4eff4",
         "android_client_info": {
-          "package_name": "com.ufinix.cabdriver"
+          "package_name": "om.example.uberappv2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "169450788828-u10e9c6dlb73iq7de33l41iaodjd46ug.apps.googleusercontent.com",
+          "client_id": "148766034717-mabcgss119t4sruh1dln0fdgnlonuavn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDQSm22dfjceA0OiQ9XL-0tQ0d7_XZTXpQ"
+          "current_key": "AIzaSyDHP26w04s0tbK-vo5akFJA4HdJeOLrHZk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "169450788828-u10e9c6dlb73iq7de33l41iaodjd46ug.apps.googleusercontent.com",
+              "client_id": "148766034717-mabcgss119t4sruh1dln0fdgnlonuavn.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "169450788828-djkmdaq2voe24hghj5nc05sv5upikbfu.apps.googleusercontent.com",
+              "client_id": "148766034717-la9d80crdni13sl7vtie3ml4l7qrmker.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.ufinix.cabRider"
+                "bundle_id": "com.example.uberappv2"
               }
             }
           ]
